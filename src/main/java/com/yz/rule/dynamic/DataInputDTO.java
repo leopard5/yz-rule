@@ -4,6 +4,9 @@ import lombok.Data;
 
 import java.io.Serializable;
 
+/**
+ * @author yazhong
+ */
 @Data
 public class DataInputDTO implements Serializable {
     private static final long serialVersionUID = -5186993185754643067L;
@@ -22,4 +25,8 @@ public class DataInputDTO implements Serializable {
      * 数据获取表达式
      */
     private String dataExpression;
+
+    public static void main(String[] args) {
+
+    }
 }
