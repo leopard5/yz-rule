@@ -1,7 +1,7 @@
 package com.yz.rule.rule;
 
-import com.yz.rule.enums.DataSupplierEnum;
-import com.yz.rule.enums.SchemaTypeEnum;
+import com.yz.rule.clean.enums.DataSupplierEnum;
+import com.yz.rule.clean.enums.SchemaTypeEnum;
 import lombok.Data;
 
 import java.util.List;

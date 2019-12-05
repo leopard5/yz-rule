@@ -40,4 +40,5 @@ public class RuleApplicationTests {
 		eventList.forEach(System.out::println);
 	}
 
+
 }

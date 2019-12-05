@@ -1,13 +1,13 @@
-package com.yz.rule.enums;
+package com.yz.rule.clean.enums;
 
+/**
+ * @author yazhong
+ */
 public enum DataSupplierEnum {
-    YUNDANG,
+
     SHANGHAI_HAIBO,
     SHENZHENG_PENGHAIYUN,
     NINGBO_EDI,
-    WUZHIHUA,
     SPIDER,
-    VGM,
-    PAPERLESS
 
 }
